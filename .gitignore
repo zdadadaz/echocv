@@ -1,0 +1,6 @@
+models/*
+.spyproject/
+README.md
+dicomsample/image/*
+dicomsample/tmp/*
+dicomsample/*.dcm

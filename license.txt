@@ -1,0 +1,60 @@
+Copyright Notice
+Regents of the University of California are the proprietor of certain copyrights of and to EchoCV software, source code and associated material as disclosed in, but not limited to UC Case No. SF2018-046 (“Code”).  Code also contains source code created by certain third parties.  Redistribution and use of the Code with or without modification are permitted provided that redistributions of Code must retain the following copyright notices, list of conditions and disclaimer.
+
+Copyright Notices
+Copyright (c) 2017, Regents of the University of California
+All rights reserved.
+
+Copyright (c) 2013-2014 trackpy contributors
+https://github.com/soft-matter/trackpy
+All rights reserved
+
+Copyright (c) 2005-2017, NumPy Developers.
+All rights reserved.
+	
+
+Copyright 2015 The TensorFlow Authors.  All rights reserved.
+
+Copyright (c) 2013-2014 PIMS contributors
+https://github.com/soft-matter/pims
+   
+All rights reserved	   
+
+Copyright (c) 2007–2017 The scikit-learn developers.
+All rights reserved.
+
+Copyright © 2001, 2002 Enthought, Inc.
+All rights reserved.
+
+Copyright © 2003-2013 SciPy Developers.
+All rights reserved.
+
+List of Conditions 
+
+a)	Use of the Code for the sale of any product or service or for the purpose of profit-making or use by a commercial entity is strictly prohibited.
+b)	Any request to furnish all or any portion of the Code for the sale of any product or service or for the purpose of profit-making or use by a commercial entity, shall be in writing to Director, Technology Management, the University of California, San Francisco (Reference: UC Case No. SF2018-046). 
+c)	The Code uses third party resources listed below in Table 1 (“Third Party Resources”). Certain licenses attach to Third Party Resources and by using Code you agree to abide by those licenses.
+
+Table 1
+Third Party Resources	license	web link
+Trackpy	BSD-3	https://github.com/soft-matter/trackpy/blob/master/LICENSE
+
+OpenCV	BSD-3	https://opencv.org/license.html
+
+Numpy	BSD-3	https://github.com/numpy/numpy/blob/master/LICENSE.txt
+
+Scipy	BSD-3	https://www.scipy.org/scipylib/license.html
+
+SciKit Learn	BSD-3	https://github.com/scikit-learn/scikit-learn/blob/master/COPYING
+
+Tensorflow	Apache Version 2.0	https://github.com/tensorflow/tensorflow/blob/master/tensorflow/tools/docker/notebooks/LICENSE
+
+PIMS	BSD-3	https://github.com/soft-matter/pims/blob/master/license.txt
+
+
+Disclaimer
+
+THIS CODE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+
+
