@@ -29,7 +29,7 @@ python-dateutil==2.6.1
 pytz==2018.5
 PyWavelets==1.0.0
 PyYAML==3.13
-rsa==3.4.2
+rsa==4.1
 s3transfer==0.1.10
 scikit-image==0.13.0
 scikit-learn==0.19.1
